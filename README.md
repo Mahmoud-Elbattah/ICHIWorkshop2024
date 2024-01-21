@@ -1,4 +1,4 @@
-<b>Workshop on Human-Centred XAI: Enhancing AI Acceptability for Healthcare</b>
+<h1><b>Workshop on Human-Centred XAI: Enhancing AI Acceptability for Healthcare</b></h1>
 
 In Conjunction with IEEE International Conference of Healthcare Informatics (ICHI) 2024
 
